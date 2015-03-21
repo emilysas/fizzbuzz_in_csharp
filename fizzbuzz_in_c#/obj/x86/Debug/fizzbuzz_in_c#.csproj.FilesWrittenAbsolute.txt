@@ -1,0 +1,5 @@
+/Users/Emily/Projects/fizzbuzz_in_c#/fizzbuzz_in_c#/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Emily/Projects/fizzbuzz_in_c#/fizzbuzz_in_c#/bin/Debug/fizzbuzz_in_c#.exe.mdb
+/Users/Emily/Projects/fizzbuzz_in_c#/fizzbuzz_in_c#/bin/Debug/fizzbuzz_in_c#.exe
+/Users/Emily/Projects/fizzbuzz_in_c#/fizzbuzz_in_c#/obj/x86/Debug/fizzbuzz_in_c#.exe
+/Users/Emily/Projects/fizzbuzz_in_c#/fizzbuzz_in_c#/obj/x86/Debug/fizzbuzz_in_c#.exe.mdb
